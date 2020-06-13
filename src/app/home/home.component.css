@@ -37,6 +37,7 @@ ul li:hover{
 }
 .box{
     box-shadow: 3px 1px 17px 1px rgb(227, 221, 221);
+    cursor: pointer;
 }
 img{
     width: 100%;
